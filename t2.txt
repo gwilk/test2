@@ -1,4 +1,3 @@
 Zmiana (linia 1)
 nowa linijka
 linia trzecia?
-czwarta prim
